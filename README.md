@@ -1,1 +1,1 @@
-# diamondcontact
+# Diamond Edge Contact
